@@ -11,6 +11,18 @@ GO111MODULE="on" go get sigs.k8s.io/kind
 
 ```
 
+
+# Optional
+
+
+```bash
+sudo mkdir -p /pod-50g
+sudo chown codespace.codespace /pod-50g
+
+```
+
+
+
 # Step 2
 
 Create cluster
