@@ -47,17 +47,6 @@ backend http_back
    
 ```
 
-Now enable haproxy
-
-```
-vi /etc/default/haproxy
-
-# And set
-ENABLED=1
-
-
-``
-
 # Start
 
 ```bash
